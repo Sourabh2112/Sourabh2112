@@ -23,8 +23,8 @@ I'm Sourabh, a college student and a tech enthusiast. I'm also a Full-Stack deve
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Sourabh2112?style=social)](https://www.github.com/Sourabh2112)
-[![Gmail Badge](https://img.shields.io/badge/-Sourabh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flyingshadow03@gmail.com)](mailto:flyingshadow03@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Sourabh-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/FightingShadow)](https://t.me/FightingShadow)
+[![Gmail Badge](https://img.shields.io/badge/-Sourabh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sourabhsbg01@gmail.com)](mailto:sourabhsbg01@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Sourabh-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Sk7992325836)](https://t.me/Sk7992325836)
 
 <br/>
 <br/>
